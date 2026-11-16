@@ -4,7 +4,7 @@ Free-first international news TikTok video workspace. Burmese-first UI, online e
 
 ## Current status
 
-**Web editor MVP scaffold** — story/script entry, local media selection, editable scene list, motion/transition presets, duration calculation, and local renderer connection check. The actual renderer companion and export pipeline are not yet implemented. The UI intentionally does not pretend that rendering has succeeded.
+**Web editor MVP scaffold** — story/script entry, local media selection, editable scene list, motion/transition presets, duration calculation, and local renderer connection check. A first local FFmpeg companion has been added; the rendering path is early MVP and needs real Windows end-to-end testing before it can be considered production-ready. The UI intentionally does not pretend that rendering has succeeded.
 
 ## Requirements
 
